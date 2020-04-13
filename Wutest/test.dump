@@ -1,0 +1,8 @@
+
+1.om:     file format elf32-littleriscv
+
+
+Disassembly of section .text:
+
+00010054 <_start>:
+   10054:	00006093          	ori	ra,zero,0
